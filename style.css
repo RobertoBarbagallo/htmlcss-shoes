@@ -45,11 +45,7 @@ nav .button{
 
 
 /* container and contained*/
-.container{
-    width: 100%;
-    height: 100%;
-    position: relative;
-}
+
  
 .contained{
     width: 40%;

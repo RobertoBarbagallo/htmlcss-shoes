@@ -64,6 +64,7 @@ nav .button{
 .contained img{
     width: 100%;
     height: 100%;
+    object-fit: contain;
 }
 
 .contained h3{
